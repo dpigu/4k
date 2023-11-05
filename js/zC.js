@@ -25,8 +25,8 @@ const request_timeout = 5000;
 const VERSION = '天下第一';
 const UA = 'Mozilla/5.0'; //默认请求ua
 const __ext = {data_dict:{}};
-const tips = `\n🌙宝盒专享-${VERSION}`;
-const def_pic = 'https://agit.ai/guot54/ygbh/raw/branch/master/yg.jpg';
+const tips = `\n🌙屁股专享-${VERSION}`;
+const def_pic = 'https://gh-proxy.com/https://raw.githubusercontent.com/dpigu/4k/main/libs/pg.jpg';
 /**
  * 打印日志
  * @param any 任意变量
@@ -200,13 +200,13 @@ function detail(tid) { // ⛵  港•澳•台
 			list: [{
 				vod_id: tid,
         		vod_name: '搜索:'+_tab.replace('#search#',''),
-        		type_name: "🌙宝盒专享。",
+        		type_name: "🌙屁股专享。",
         		vod_pic: def_pic,
         		vod_content: tid,
         		vod_play_from: '来自搜索',
         		vod_play_url: vod_play_url,
         		vod_director: tips,
-        		vod_remarks: `月光宝盒-${VERSION}`,
+        		vod_remarks: `屁股-${VERSION}`,
 			}]
 		});
 	}
@@ -239,13 +239,13 @@ function detail(tid) { // ⛵  港•澳•台
     let vod = {
         vod_id: tid,
         vod_name: vod_name+'|'+_tab,
-        type_name: "🌙宝盒专享。",
+        type_name: "🌙屁股专享。",
         vod_pic: def_pic,
         vod_content: tid,
         vod_play_from: vod_name,
         vod_play_url: vod_play_url,
         vod_director: tips,
-        vod_remarks: `🌙月光宝盒专享-${VERSION}`,
+        vod_remarks: `🌙屁股专享-${VERSION}`,
     };
 
     return JSON.stringify({
