@@ -1969,7 +1969,7 @@
   {"name":"抖音","hosts":["douyin.com"],"regex":["is_play_url="]}
 ],
 "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-"spider": "https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224",
+"spider": "https://gh-proxy.com/https://raw.githubusercontent.com/dpigu/4k/main/jar/0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F",
 "lives":
 [
   {
