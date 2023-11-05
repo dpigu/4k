@@ -26,11 +26,11 @@
         "key":"🔞屁股专享",
         "name":"🔞屁股专享",
         "type":3,
-        "api":"https://gh-proxy.com/https://raw.githubusercontent.com/dpigu/4k/main/js/zC.js",
+        "api":"https://cdn.jsdelivr.net/gh/dpigu/4k/js/zC.js",
         "searchable":2,
         "quickSearch":0,
         "filterable":0,
-        "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/dpigu/4k/main/json/18cr.json"
+        "ext":"https://cdn.jsdelivr.net/gh/dpigu/4k/json/18cr.json"
     },
     {
         "key":"csp_jiujiuzhobo",
