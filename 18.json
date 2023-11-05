@@ -14,20 +14,13 @@
     "warningText": "🐼提醒您:VIP专享接口长期维护 请放心使用🐼",
     "sites":[
     {
-        "key":"1",
-        "name":"🔞🈲未成年人禁止访问，请止步！！",
-        "type":0,
-        "api":""
-    },
-    {
-        "key":"csp_JavDb",
-        "name":"🧲🔞JavDb",
-        "type":3,
-        "api":"csp_JavDb",
-        "searchable":0,
-        "quickSearch":1,
-        "filterable":1,
-        "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/dpigu/4k/main/jar/javbus.jpg"
+      "key":"t4_wo",
+      "name":"🔞🈲未成年人禁止访问，请止步！！",
+      "type":4,
+      "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
     },
     {
         "key":"csp_jiujiuzhobo",
@@ -118,15 +111,8 @@
         ]
     },
     {
-        "key":"直转点",
-        "name":"🔞㊙️点播",
-        "type":3,
-        "api":"http://lgz.hk3.20212021.ml.cdn.cloudflare.net/直转点.js",
-        "ext":"http://lgz.hk3.20212021.ml.cdn.cloudflare.net/直转点.txt"
-    },
-    {
         "key":"AList",
-        "name":"🔞❤罗汉果专用",
+        "name":"🔞罗汉果专用",
         "type":3,
         "style":{"type":"rect","ratio":1.485},
         "api":"csp_AList",
@@ -156,8 +142,8 @@
         "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/dpigu/4k/main/jar/xb.jar"
     },
     {
-        "key":"🔞宝盒专享",
-        "name":"🔞宝盒专享",
+        "key":"🔞屁股专享",
+        "name":"🔞屁股专享",
         "type":3,
         "api":"https://gh-proxy.com/https://raw.githubusercontent.com/dpigu/4k/main/js/zC.js",
         "searchable":2,
