@@ -167,7 +167,7 @@
         "name":"👠老鸭采集",
         "type":1,
         "api":"https://api.apilyzy.com/api.php/provide/vod/",
-            "playUrl":"",
+        "playUrl":"",
         "searchable":0,
         "quickSearch":0,
         "filterable":1,
@@ -1388,7 +1388,7 @@
         "type":0,
         "api":"https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml",
         "searchable":0,
-"quickSearch":0,
+        "quickSearch":0,
         "jar":"https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"
     },
     {
@@ -1404,7 +1404,7 @@
         "type":0,
         "api":"http://www.ggmmzy.com:9999/inc/xml",
         "searchable":0,
-"quickSearch":0,
+        "quickSearch":0,
         "jar":"https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"
     },
     {
@@ -1413,7 +1413,7 @@
         "type":1,
         "api":"http://www.feifei67.com/api.php/provide/vod/",
         "searchable":0,
-"quickSearch":0,
+        "quickSearch":0,
         "jar":"https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"
     },
     {
@@ -1422,7 +1422,7 @@
         "type":0,
         "api":"http://bttcj.com/inc/sapi.php",
         "searchable":0,
-"quickSearch":0,
+        "quickSearch":0,
         "jar":"https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"
     },
     {
@@ -1517,10 +1517,10 @@
         "name":"*🔞老鸭2",
         "type":1,
         "api":"https://lbapi9.com/api.php/provide/vod/",
-    "playUrl":"json:https://player.77lehuo.com/aliplayer/?url=",
+        "playUrl":"json:https://player.77lehuo.com/aliplayer/?url=",
         "searchable":0,
-"quickSearch":0,
-"filterable":0
+        "quickSearch":0,
+        "filterable":0
     },
     {
         "key":"cjmygzy.com",
@@ -1961,6 +1961,8 @@
     {"name":"量子","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
     {"name":"非凡","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
     {"name":"火山","hosts":["huoshan.com"],"regex":["item_id="]},
-    {"name":"抖音","hosts":["douyin.com"],"regex":["is_play_url="]}],"flags":["youku","优酷","优酷","优酷视频","qq","腾讯","腾讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱奇艺","m1905","xigua","letv","leshi","乐视","乐视","sohu","搜狐","搜狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒果TV","bilibili","哔哩","哔哩哔哩"],
+    {"name":"抖音","hosts":["douyin.com"],"regex":["is_play_url="]}
+],
+    "flags":["youku","优酷","优酷","优酷视频","qq","腾讯","腾讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱奇艺","m1905","xigua","letv","leshi","乐视","乐视","sohu","搜狐","搜狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒果TV","bilibili","哔哩","哔哩哔哩"],
     "ads":["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com","https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"]
 }
