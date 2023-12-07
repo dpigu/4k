@@ -1,36 +1,42 @@
-    {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/dpigu/4k/main/18.json",
-      "name": "🔞福利0"
-    },
-    {
-      "url": "https://agit.ai/zzzgit/zzz/raw/branch/main/proxxx.json",
-      "name": "🔞福利1"
-    },
-    {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/fuli.json",
-      "name": "🔞福利2"
-    },
-    {
-      "url": "https://kjsc0310.github.io/tvy/s2.json",
-      "name": "🔞福利3"
-    },
-    {
-      "url": "https://www.agit.ai/dlee2008/TVBOXZY/raw/commit/f1bd76d8b66ba95f98927c6ae8553dce196de3a7/18.json",
-      "name": "🔞福利4"
-    },
-    {
-      "url": "https://www.agit.ai/dlee2008/13800/raw/commit/314f2c309408ef11057ddfe8f588831895c66850/cr/c18.json",
-      "name": "🔞福利5"
-    },
-    {
-      "url": "https://cyuan.netlify.app/tvbox/lives/18+/18+2023.txt",
-      "name": "🔞福利6"
-    },
-    {
-      "url": "https://cyuan.netlify.app/tvbox/lives/18+/18+%E5%8D%83%E9%83%A8%E7%8B%AC%E5%AE%B6%E4%BC%A0%E5%AA%92%E6%97%A0%E6%B0%B4%E5%8D%B0%E6%9D%A5%E8%A2%ADtvlist.txt",
-      "name": "🔞福利7"
-    },
-    {
-      "url": "https://cyuan.netlify.app/tvbox/lives/18+/18%F0%9F%88%B2%EF%B8%8F.txt",
-      "name": "🔞福利8"
-    }
+
+//以下内容为互联网收集，只为自用……
+{
+  "urls": [
+      {
+          "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/dpigu/4k/main/18.json",
+          "name": "🔞福利0"
+      },
+      {
+          "url": "https://agit.ai/zzzgit/zzz/raw/branch/main/proxxx.json",
+          "name": "🔞福利1"
+      },
+      {
+          "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/fuli.json",
+          "name": "🔞福利2"
+        },
+        {
+          "url": "https://kjsc0310.github.io/tvy/s2.json",
+          "name": "🔞福利3"
+        },
+        {
+          "url": "https://www.agit.ai/dlee2008/TVBOXZY/raw/commit/f1bd76d8b66ba95f98927c6ae8553dce196de3a7/18.json",
+          "name": "🔞福利4"
+        },
+        {
+          "url": "https://www.agit.ai/dlee2008/13800/raw/commit/314f2c309408ef11057ddfe8f588831895c66850/cr/c18.json",
+          "name": "🔞福利5"
+        },
+        {
+          "url": "https://cyuan.netlify.app/tvbox/lives/18+/18+2023.txt",
+          "name": "🔞福利6"
+        },
+        {
+          "url": "https://cyuan.netlify.app/tvbox/lives/18+/18+%E5%8D%83%E9%83%A8%E7%8B%AC%E5%AE%B6%E4%BC%A0%E5%AA%92%E6%97%A0%E6%B0%B4%E5%8D%B0%E6%9D%A5%E8%A2%ADtvlist.txt",
+          "name": "🔞福利7"
+        },
+        {
+          "url": "https://cyuan.netlify.app/tvbox/lives/18+/18%F0%9F%88%B2%EF%B8%8F.txt",
+          "name": "🔞福利8"
+        }
+  ]
+}
